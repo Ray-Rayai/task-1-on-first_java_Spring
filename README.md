@@ -18,19 +18,27 @@ Clean and minimal UI output
 Lightweight and fast execution
 
 ## How It Works
-The application defines a controller class: 
+The application defines a controller class:
+
 HelloController
 
 It provides two endpoints
+
 1 Root Endpoint (/)
-  .URL:http://loclhost:8080/,
+  .URL:http://loclhost:8080/
+  
   .Return a plain text rsponse
+  
 Output:
+
 Hello Vistula, in my first Spring controller.
 
 2. Greeting Endpoint ( /greeting)
+   
    .URL:http://localhost:8080/greeting?name = Vistula
+   
    .Accepts a query paramete: name
+   
    .Passes thr value to a view (HTML template)
 
 Example: http://localhost:8080/greeting?name=Vistula
