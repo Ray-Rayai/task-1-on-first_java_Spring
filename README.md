@@ -3,7 +3,9 @@ Spring Boot Greeting Application
 
 ## Overview
 This project is a simple web application that built using Spring Boot. 
+
 it demonstration how to create HTTP endpoint and return both plain text and dynamic
+
 HTML content using a controller.
 
 ## Features
