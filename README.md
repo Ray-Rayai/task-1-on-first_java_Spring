@@ -6,10 +6,10 @@ This project is a simple web application that built using Spring Boot. it demons
 HTML content using a controller.
 
 ## Features
-Dynamic greeting based on user-provided name 
-Simple HTTP endpoint handling
-Clean and mimimal UI output
-Lightweight and fast execution
+#Dynamic greeting based on user-provided name 
+#Simple HTTP endpoint handling
+#Clean and mimimal UI output
+#Lightweight and fast execution
 
 ## How It Works
 The application defines a controller class: 
