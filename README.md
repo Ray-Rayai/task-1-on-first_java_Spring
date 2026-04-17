@@ -2,22 +2,23 @@
 Spring Boot Greeting Application 
 
 ## Overview
-This project is a simple web application that built using Spring Boot. it demonstration how to create HTTP endpoint and return both plain text and dynamic
+This project is a simple web application that built using Spring Boot. 
+it demonstration how to create HTTP endpoint and return both plain text and dynamic
 HTML content using a controller.
 
 ## Features
-#Dynamic greeting based on user-provided name 
-#Simple HTTP endpoint handling
-#Clean and mimimal UI output
-#Lightweight and fast execution
+Dynamic greeting based on user-provided name 
+Simple HTTP endpoint handling
+Clean and minimal UI output
+Lightweight and fast execution
 
 ## How It Works
 The application defines a controller class: 
 HelloController
 
 It provides two endpoints
-1.Root Endpoint (/)
-  .URL:http://loclhost:8080/
+1 Root Endpoint (/)
+  .URL:http://loclhost:8080/,
   .Return a plain text rsponse
 Output:
 Hello Vistula, in my first Spring controller.
@@ -48,10 +49,12 @@ Output:
 <img width="887" height="920" alt="image" src="https://github.com/user-attachments/assets/cf808742-4cb0-4f31-810f-296ff8d4188d" />
 
 ## Technologies Used 
-.Java
-.Spring Boot
-.Spring MVC
-.Manen
+. Java
+. Spring Boot
+. Spring MVC
+. Maven
+. Thymeleaf
+. IntelliJ IDEA
 
 ## Project Structure
 . HelloController.java - handle HTTP requests
@@ -59,7 +62,4 @@ Output:
 . application.properties - configuration file
 
 
-4. open in browser:
-  .http://localhost:8080/
-  .http://localhost:8080/greeting?name=Vistula
  
