@@ -45,7 +45,7 @@ Output:
  .Adds it to the model
  .Displays a personalized greeting in the HTML view
 
-## Screenshorts
+## Screenshots
 <img width="887" height="920" alt="image" src="https://github.com/user-attachments/assets/cf808742-4cb0-4f31-810f-296ff8d4188d" />
 
 ##Technologies Used 
