@@ -49,21 +49,21 @@ Output:
  ## Use of Cases
  
 1 Access Root Endpoint 
-.User opens browser
+. User opens browser
 
-.Navigates to /
+. Navigates to /
 
-.System return a static text message
+. System return a static text message
 
 2 Personalized Greeting
 
- .User enters /greeting?name=Vistula
+ . User enters /greeting?name=Vistula
  
- .Application extract the name parameter
+ . Application extract the name parameter
  
- .Adds it to the model
+ . Adds it to the model
  
- .Displays a personalized greeting in the HTML view
+ . Displays a personalized greeting in the HTML view
 
 ## Screenshots
 
@@ -84,9 +84,15 @@ Output:
 . IntelliJ IDEA
 
 ## Project Structure
-. HelloController.java - handle HTTP requests
-. templates/greeting.html - HTML view template
-. application.properties - configuration file
+
+. HelloController.java 
+        - handle HTTP requests
+
+. templates/greeting.html 
+        - HTML view template
+
+. application.properties 
+         - configuration file
 
 
  
