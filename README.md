@@ -10,8 +10,11 @@ HTML content using a controller.
 
 ## Features
 Dynamic greeting based on user-provided name 
+
 Simple HTTP endpoint handling
+
 Clean and minimal UI output
+
 Lightweight and fast execution
 
 ## How It Works
