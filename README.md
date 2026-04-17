@@ -59,13 +59,7 @@ Output:
 . templates/greeting.html - HTML view template
 . application.properties - configuration file
 
-## How to Run the Application 
-1. Clone the repository:
-   git clone <https://github.com/Ray-Rayai/task-1-on-first_java_Spring.git>
-2. Navigate to the project folder:
-   first_project_java_spring
-3. Run the application:
-   mvn spring-boot:run
+
 4. open in browser:
   .http://localhost:8080/
   .http://localhost:8080/greeting?name=Vistula
