@@ -27,8 +27,7 @@ Hello Vistula, in my first Spring controller.
    .Accepts a query paramete: name
    .Passes thr value to a view (HTML template)
 
-Example:
-   http://localhost:8080/greeting?name=Vistula
+Example: http://localhost:8080/greeting?name=Vistula
 
 Output:
     Hello, Viatula!
@@ -48,7 +47,7 @@ Output:
 ## Screenshots
 <img width="887" height="920" alt="image" src="https://github.com/user-attachments/assets/cf808742-4cb0-4f31-810f-296ff8d4188d" />
 
-##Technologies Used 
+## Technologies Used 
 .Java
 .Spring Boot
 .Spring MVC
